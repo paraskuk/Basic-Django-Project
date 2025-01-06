@@ -42,5 +42,4 @@ This is a simple Django project with two views: `HelloView` and `HelloRoot`.
 - `DjangoProject/views.py`: Contains the `HelloView` and `HelloRoot` views.
 
 ## License
-
 This project is licensed under the MIT License.
